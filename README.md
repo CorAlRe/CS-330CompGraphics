@@ -1,7 +1,7 @@
 # CS-330CompGraphics
 How do I approach designing software?
 
-I approach software design with an idea, requirements, architecture, implmentation, testing, and publication.
+  I approach software design with an idea, requirements, architecture, implmentation, testing, and publication.
 
 What new design skills has your work on the project helped you to craft?
 
